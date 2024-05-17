@@ -571,7 +571,7 @@ border-radius: .1em;
 }
 
 .author__avatar img {
-  width: 200px; /* Set the desired width */
+  width: 250px; /* Set the desired width */
   height: 250px; /* Set the desired height */
   border-radius: 50%; /* Optional: Make the avatar round */
 }
