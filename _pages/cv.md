@@ -23,24 +23,18 @@ _National Technical University of Athens (2015-2021)_
 Work experience
 ======
 
-* Fall 2021 - Now: Research Assistant
-  * Yale University
+* Fall 2021 - Now: Research Assistant, Yale University
   * Thesis: Trusted Execution Environments for Quantum Computers
   * Supervisor: Professor Jakub Szefer
 
-* Summer 2024: Corporate Intern
-  * Caterpillar Inc.
+* Summer 2024: Corporate Intern, Caterpillar Inc., Chicago, Illinois
   * Task: General purpose analytics, working on ML/AI and Gen AI models
   * Supervisor: Andrei Khurshudov
-  * Chicago, Illinois
 
-* Summer 2021: Research Intern
-  * Technology Innovation Institute (TII)
+* Summer 2021: Research Intern, Technology Innovation Institute (TII),  Abu Dhabi, UAE
   * Task: Exploring vulnerabilities in "buggy" SoC
-  * Abu Dhabi, UAE
 
-* Fall 2020 and Spring 2021: Research Assistant
-  * National Technical University of Athens, Greece
+* Fall 2020 and Spring 2021: Research Assistant, National Technical University of Athens, Greece
   * Thesis: A survey for side-channel attacks due to speculative execution and mitigation mechanisms
   * Supervisor: Professor Dionisios Pnevmatikatos
   
@@ -67,9 +61,14 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  * Spring 2024: EENG 348 Digital Systems
+    * Professor [Rajit Manohar](https://csl.yale.edu/~rajit/)
+
+  * Spring 2023: CPSC 520 Computer Architecture
+    * Professor [Abhishek Bhattacharjee](https://www.cs.yale.edu/homes/abhishek/)
   
 <!-- Service and leadership
 ======
