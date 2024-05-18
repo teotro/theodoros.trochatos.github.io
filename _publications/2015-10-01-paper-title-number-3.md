@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-10-19
-venue: 'IEEE Computer Architecture Letters' (**Selected as "Best of IEEE CAL" paper for 2023**)
+venue: 'IEEE Computer Architecture Letters' <strong>(Selected as "Best of IEEE CAL" paper for 2023)</strong>
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288020'
 citation: 'T. Trochatos, C. Xu, S. Deshpande, Y.Lu, Y. Ding and J. Szefer, <i>A Quantum Computer Trusted Execution Environment, IEEE Computer Architecture Letters</i> 2023.'
