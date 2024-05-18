@@ -14,7 +14,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 ## News
 - <span style="color:blue"> [Personal News]: </span> For summer 2024, I will be joining Caterpillar in Chicago, Illinois, as a Corporate Intern in ML/AI and GenAI models.
 - <span style="color:red"> [Paper Award]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) awarded the **Best Paper Award** in **SEED 2024**!
-- <span style="color:green"> [Paper Acceptance]: </span> CASQUE got accepted to **HOST 2024**.
+- <span style="color:green"> [Paper Acceptance]: </span> CASQUE got accepted to **HOST 2024**. Preprint coming soon.
 - <span style="color:green"> [Paper Acceptance]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) got accepted to **SEED 2024**.
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
 - <span style="color:red"> [Paper Award]: </span> Our paper [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288020) awarded as the  **Best of CAL** for 2023 and will be presented in **HPCA 2024**. See you in Edinburgh, Scotland!
