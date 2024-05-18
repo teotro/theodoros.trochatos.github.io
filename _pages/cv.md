@@ -18,7 +18,7 @@ _Yale University (2021-2027)_
 _Yale University (2021-2022)_
 
 **Diploma in Electrical and Computer Engineering** \
-_National Technical University of Athens (2015-2021) \
+_National Technical University of Athens (2015-2021)_ \
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
 
 * Summer 2024: Corporate Intern
   * Caterpillar Inc.
-  * Task: General pupose analytics, working on Ml/AI and Gen AI models
+  * Task: General pupose analytics, working on ML/AI and Gen AI models
   * Supervisor: Andrei Khurshudov
   * Chicago, Illinois
 
