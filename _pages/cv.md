@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Yale University, 2027 (expected)
-* M.Sc. in Electrical Engineering, Yale University, 2022
-* B.Sc. in Electrical & Computer Engineering, National Technical University of Athens, 2021
+**Doctor of Philosophy in Electrical Engineering** \
+_Yale University (2021-2027)_
+
+**Master of Science in Electrical Engineering** \
+_Yale University (2021-2022)_
+
+**Diploma in Electrical and Computer Engineering** \
+_National Technical University of Athens (2015-2021) \
 
 Work experience
 ======
