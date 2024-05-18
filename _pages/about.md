@@ -11,6 +11,20 @@ I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
+## News
+- <span style="color:blue"> [Personal News]: </span> I am joining Caterpillar as a Corporate Intern in ML/AI and GenAI models.
+- <span style="color:green"> [Paper Acceptance]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) awarded the **Best Paper Award** in **SEED 2024**.
+- <span style="color:green"> [Paper Acceptance]: </span> CASQUE got accepted to **HOST 2024**.
+- <span style="color:green"> [Paper Acceptance]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) got accepted to **SEED 2024**.
+- <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division and qualified for the final round!
+- <span style="color:green"> [Paper acceptance]: </span> [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288020) selected as the  **Best of CAL** for 2023 and will be presented in **HPCA 2024**. See you in Edinburgh, Scotland!
+- <span style="color:green"> [Paper Acceptance]: </span> Our paper [Covert-channels in FPGA-enabled SmartSSDs](https://dl.acm.org/doi/pdf/10.1145/3635312) got accepted to **ACM Transactions on Reconfigurable Technology and Systems** journal and will appear during the main program of **FPT 2023** in Yokohama, Japan.
+- <span style="color:green"> [Paper acceptance]: </span> [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1028802) accepted in the **IEEE Computer Architecture Letters 2023**.
+- <span style="color:blue"> [Personal News]: </span> By the end of summer 2023, I was awarded the Gerondelis Foundation Award and the A.G. Leventis Foundation scholarship!
+- <span style="color:green">[Paper acceptance]:</span> [Design of Quantum Computer Antivirus](https://caslab.csl.yale.edu/publications/deshpande2023design.pdf) got accepted to **HOST 2023**.
+- <span style="color:blue"> [Personal News]: </span> I am attending the [ACACES 2022](https://www.hipeac.net/acaces/2022/#/) summer school in Fiuggi, Italy!
+- <span style="color:green">[Paper acceptance]:</span> Our paper, [Towards and antivirus for quantum computers](https://caslab.csl.yale.edu/publications/deshpande2022towards.pdf), got accepted to **HOST 2022**.
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
