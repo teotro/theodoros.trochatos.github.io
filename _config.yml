@@ -21,7 +21,7 @@ repository               : "academicpages/teotro.github.io/website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "thodoris_zoomed_less.png"
+  avatar           : "thodoris_zoomed_even_less.png"
   name             : "Theodoros Trochatos"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in computer architecture, quantum computers and hardware security"
