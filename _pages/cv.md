@@ -34,9 +34,9 @@ Work experience
 * Summer 2021: Research Intern, Technology Innovation Institute (TII),  Abu Dhabi, UAE
   * Task: Exploring vulnerabilities in "buggy" SoC
 
-* Fall 2020 and Spring 2021: Research Assistant, National Technical University of Athens, Greece
+<!-- * Fall 2020 and Spring 2021: Research Assistant, National Technical University of Athens, Greece
   * Thesis: A survey for side-channel attacks due to speculative execution and mitigation mechanisms
-  * Supervisor: Professor Dionisios Pnevmatikatos
+  * Supervisor: Professor Dionisios Pnevmatikatos -->
   
 <!-- Skills
 ======
