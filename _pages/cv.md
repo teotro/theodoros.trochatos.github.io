@@ -23,15 +23,15 @@ _National Technical University of Athens (2015-2021)_
 Work experience
 ======
 
-* Fall 2021 - Now: Research Assistant, Yale University
+* **Fall 2021 - Now: Research Assistant, Yale University**
   * Thesis: Trusted Execution Environments for Quantum Computers
   * Supervisor: Professor Jakub Szefer
 
-* Summer 2024: Corporate Intern, Caterpillar Inc., Chicago, Illinois
+* **Summer 2024: Corporate Intern, Caterpillar Inc., Chicago, Illinois**
   * Task: General purpose analytics, working on ML/AI and Gen AI models
   * Supervisor: Andrei Khurshudov
 
-* Summer 2021: Research Intern, Technology Innovation Institute (TII),  Abu Dhabi, UAE
+* **Summer 2021: Research Intern, Technology Innovation Institute (TII),  Abu Dhabi, UAE**
   * Task: Exploring vulnerabilities in "buggy" SoC
 
 <!-- * Fall 2020 and Spring 2021: Research Assistant, National Technical University of Athens, Greece
