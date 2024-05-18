@@ -25,7 +25,7 @@ Work experience
 
 * **Fall 2021 - Now: Research Assistant, Yale University**
   * Thesis: Trusted Execution Environments for Quantum Computers
-  * Supervisor: Professor Jakub Szefer
+  * Supervisor: Professor [Jakub Szefer](https://caslab.csl.yale.edu/~jakub/)
 
 * **Summer 2024: Corporate Intern, Caterpillar Inc., Chicago, Illinois**
   * Task: General purpose analytics, working on ML/AI and Gen AI models
