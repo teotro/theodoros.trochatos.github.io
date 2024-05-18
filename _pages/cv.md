@@ -61,9 +61,7 @@ Publications
   
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   * Spring 2024: EENG 348 Digital Systems
     * Professor [Rajit Manohar](https://csl.yale.edu/~rajit/)
 
