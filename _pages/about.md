@@ -12,6 +12,7 @@ I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
 ## News
+- <span style="color:green"> [Paper Acceptance]: </span> Our paper "Protecting Quantum Computers with a Trusted Controller" got accepted to **IEEE International Conference on Quantum Computing and Engineering (QCE24)**. See you in Montréal, Canada!
 - <span style="color:blue"> [Personal News]: </span> For summer 2024, I will be joining Caterpillar in Chicago, Illinois, as a Corporate Intern in ML/AI and Gen AI models.
 - <span style="color:red"> [Paper Award]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) awarded the **Best Paper Award** in **SEED 2024**!
 - <span style="color:green"> [Paper Acceptance]: </span> CASQUE got accepted to **HOST 2024**. Preprint coming soon.
