@@ -28,15 +28,15 @@ Work experience
   * Supervisor: Professor [Jakub Szefer](https://caslab.csl.yale.edu/~jakub/)
 
 * **Summer 2024: Corporate Intern, Caterpillar Inc., Chicago, Illinois**
-  * •	Built a RAG/AI agent using Python, wrapped it up in a FastAPI server and put it inside a Docker 
+  * Built a RAG/AI agent using Python, wrapped it up in a FastAPI server and put it inside a Docker 
 container, hosted on AWS and using the Cloud Development Kit to facilitate interaction with PDF documents, enabling users to pose specific questions and receive precise answers from the text minimizing hallucinations
-  * • Deployed Pylint standards to ensure code quality and Pytest or Unittest packages for unit testing
+  * Deployed Pylint standards to ensure code quality and Pytest or Unittest packages for unit testing
 
 
 * **Summer 2021: Research Intern, Technology Innovation Institute (TII),  Abu Dhabi, UAE**
-  * •	Explored and identified software-exploitable hardware bugs in PULP RISC-V platform through extensive 
+  * Explored and identified software-exploitable hardware bugs in PULP RISC-V platform through extensive 
 analysis and testing using Verilog and participated in the HACK@SEC21 hackathon
-  * •	Worked in a multidisciplinary team to document findings and provide recommendations for 
+  * Worked in a multidisciplinary team to document findings and provide recommendations for 
 future improvements in secure SoC design
 
 
